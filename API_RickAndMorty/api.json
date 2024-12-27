@@ -9,8 +9,8 @@
         {
             "id": 1,
             "name": "Rick Sanchez",
-            "status": "Alive",
-            "species": "Human",
+            "status": "Vivo",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -28,8 +28,8 @@
         {
             "id": 2,
             "name": "Morty Smith",
-            "status": "Alive",
-            "species": "Human",
+            "status": "Vivo",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -47,8 +47,8 @@
         {
             "id": 3,
             "name": "Summer Smith",
-            "status": "Alive",
-            "species": "Human",
+            "status": "Vivo",
+            "species": "Humano",
             "type": "",
             "gender": "Female",
             "origin": {
@@ -66,8 +66,8 @@
         {
             "id": 4,
             "name": "Beth Smith",
-            "status": "Alive",
-            "species": "Human",
+            "status": "Vivo",
+            "species": "Humano",
             "type": "",
             "gender": "Female",
             "origin": {
@@ -85,8 +85,8 @@
         {
             "id": 5,
             "name": "Jerry Smith",
-            "status": "Alive",
-            "species": "Human",
+            "status": "Vivo",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -104,7 +104,7 @@
         {
             "id": 6,
             "name": "Abadango Cluster Princess",
-            "status": "Alive",
+            "status": "Vivo",
             "species": "Alien",
             "type": "",
             "gender": "Female",
@@ -126,8 +126,8 @@
         {
             "id": 7,
             "name": "Abradolf Lincler",
-            "status": "unknown",
-            "species": "Human",
+            "status": "Desconhecido",
+            "species": "Humano",
             "type": "Genetic experiment",
             "gender": "Male",
             "origin": {
@@ -145,8 +145,8 @@
         {
             "id": 8,
             "name": "Adjudicator Rick",
-            "status": "Dead",
-            "species": "Human",
+            "status": "Morto",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -164,8 +164,8 @@
         {
             "id": 9,
             "name": "Agency Director",
-            "status": "Dead",
-            "species": "Human",
+            "status": "Morto",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -183,8 +183,8 @@
         {
             "id": 10,
             "name": "Alan Rails",
-            "status": "Dead",
-            "species": "Human",
+            "status": "Morto",
+            "species": "Humano",
             "type": "Superhuman (Ghost trains summoner)",
             "gender": "Male",
             "origin": {
@@ -202,8 +202,8 @@
         {
             "id": 11,
             "name": "Albert Einstein",
-            "status": "Dead",
-            "species": "Human",
+            "status": "Morto",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -221,8 +221,8 @@
         {
             "id": 12,
             "name": "Alexander",
-            "status": "Dead",
-            "species": "Human",
+            "status": "Morto",
+            "species": "Humano",
             "type": "",
             "gender": "Male",
             "origin": {
@@ -240,7 +240,7 @@
         {
             "id": 13,
             "name": "Alien Googah",
-            "status": "unknown",
+            "status": "Desconhecido",
             "species": "Alien",
             "type": "",
             "gender": "unknown",
@@ -259,7 +259,7 @@
         {
             "id": 14,
             "name": "Alien Morty",
-            "status": "unknown",
+            "status": "Desconhecido",
             "species": "Alien",
             "type": "",
             "gender": "Male",

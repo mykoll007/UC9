@@ -1,14 +1,25 @@
+@font-face {
+    font-family: 'Get Schwifty Regular';
+    src: url('get_schwifty.ttf') format('truetype');
+}
+#particles-js{
+    background: black;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+  }
 body {
-    font-family: Arial, sans-serif;
+    font-family: Get Schwifty Regular, sans-serif;
     background-color: #f0f0f0;
     color: #333;
     margin: 0;
-    padding: 20px;
 }
 
 h1 {
     text-align: center;
-    color: #4A90E2;
+    color: #20A4F3;
     margin-bottom: 20px;
 }
 
@@ -48,6 +59,13 @@ img {
 strong {
     display: block;
     margin-bottom: 5px;
-    color: #4A90E2;
+    color: #20A4F3;
+}
+#align-img{
+    display: flex;
+    justify-content: center ;
+}
+#align-img img{
+    max-width: 600px;
 }
 
